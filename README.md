@@ -45,10 +45,6 @@ jira.typeOfTesting=Security Testing
 ```
 python runner.py
 ```
-or
-```
-python3 runner.py
-```
 ### Output
 ##### 01-DEC-21_iTQSecIssues.csv
 ```
