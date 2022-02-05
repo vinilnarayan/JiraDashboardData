@@ -8,6 +8,7 @@ Analyzing data from Jira and creating a csv report file
 #### Downloads
 
 1. [Python](https://www.python.org/)
+2. [Pip](https://pypi.org/project/pip/)
 
 ## Usage
 ➤ Clone this repository 
