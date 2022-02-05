@@ -37,7 +37,7 @@ pip install -r requirements.txt
 jira.url=https://jira.demo.com/jira/
 jira.username=Vinil
 jira.password=Vinil@Password
-jira.reporters=Vinil, Jabir, Ramdas
+jira.reporters=Vinil, Melvin, Sagar, Rahul
 jira.months=01-OCT-21, 01-NOV-21, 01-DEC-21, 01-JAN-22, 01-FEB-22
 jira.typeOfTesting=Security Testing
 ```
