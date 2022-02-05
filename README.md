@@ -10,7 +10,15 @@ Analyzing data from Jira and creating a csv report file
 1. [Python](https://www.python.org/)
 
 ## Usage
-➤ Clone this repository and run
+➤ Clone this repository 
+```
+git clone https://github.com/vinilnarayan/JiraDashboardData.git
+```
+➤ Navigate to 'JiraDashboardData'
+```
+cd JiraDashboardData
+```
+➤ Run below code to install required packages
 ```
 pip install -r requirements.txt
 ```
