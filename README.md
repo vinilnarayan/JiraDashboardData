@@ -68,3 +68,11 @@ Critical,Major,Minor,Trivial
 Open,Fixed,Wont Fix
 3,2,0
 ```
+### Road Map
+
+ * Features to be implemented.
+    - [x] Jira creds reading from properties file.
+    - [x] Months reading from properties file.
+    - [x] Issue reporters reading from properties file.
+    - [x] Type of testing reading from properties file.
+    - [ ] Type of testing accepting multiple entries.
