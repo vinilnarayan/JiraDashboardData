@@ -51,14 +51,20 @@ python3 runner.py
 ```
 ### Output
 ##### 01-DEC-21_iTQSecIssues.csv
+```
 Core Migration,ABCD-38,Major,Assigned
 Core Migration,ABCD-37,Minor,Verified
 Core Migration,ABCD-36,Major,Resolved
 Agile Project,EFGH-49949,Critical,Verified
 Maintenance,IJKL-13376,Minor,Open
+```
 ##### 01-DEC-21_iTQSecIssues_PriorityCounts.csv
+```
 Critical,Major,Minor,Trivial
 1,2,2,0
+```
 ##### 01-DEC-21_iTQSecIssues_StatusCounts.csv
+```
 Open,Fixed,Wont Fix
 3,2,0
+```
