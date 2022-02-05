@@ -5,8 +5,8 @@ Then will process the fetched data and create 2 types of files for each month of
   1. PriorityCounts (Count of issues based on the current priority)
   2. StatusCounts (Count of issues based on the current status)
 No file will generate if no issues reported in the mentioned month.
-eg : jira.months=01-OCT-21
-     This will consider like an issue reported from 01-OCT-2021 to 31-OCT-2021. (It automatically fetching start date and end date of given months)
+eg : **jira.months=01-OCT-21**
+     This will consider like an issue reported from **01-OCT-2021 to 31-OCT-2021**. (It automatically fetching start date and end date of given months)
 
 #### Requirements
 ☛ Python
