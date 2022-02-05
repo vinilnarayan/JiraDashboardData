@@ -71,7 +71,7 @@ Open,Fixed,Wont Fix
 ### Road Map
 
  * Features to be implemented.
-    - [x] Jira creds reading from properties file.
+    - [x] Jira URL and credentials reading from properties file.
     - [x] Months reading from properties file.
     - [x] Issue reporters reading from properties file.
     - [x] Type of testing reading from properties file.
