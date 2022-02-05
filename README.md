@@ -1,7 +1,7 @@
 # JiraDashboardData
 Analyzing data from Jira and creating csv report files.
 This will fetch reported issues (based on the reporter mentioned in 'ConfigFile.properties') with mentioned months and criterias in 'ConfigFile.properties'.
-Then will process the fetched data and create 2 types of files for each month of data.
+Then will process the fetched data and create 2 types of files for each month mentioned.
   1. PriorityCounts (Count of issues based on the current priority)
   2. StatusCounts (Count of issues based on the current status)
 No file will generate if no issues reported in the mentioned month.
